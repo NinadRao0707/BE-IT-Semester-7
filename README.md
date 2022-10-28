@@ -2,7 +2,7 @@
 
 > Top-notch quality resources for the 7th semester !! 👌
 
-Yes, I know you are happy after seeing this repository. But before using this, please do note that Semester 7 was all about choosing the right elective subject. If you don't know anything about this semester, then go through the syllabus as there are only 2 subjects which are given to us and the rest 3 subjects are elective subjects. One of them includes the Institute Level Elective, which is nothing but the whole institute (yes, all the departments) has to choose one elective subject among the rest. The subject will be chosen by the majority of the students, so be careful while choosing all the electives.
+Yes, I am aware of your joy at finding this repository. But before using the repository, keep in mind that choosing the correct elective course was the focus of Semester 7. If you don't know anything about this semester, look over the syllabus because there are only 2 required subjects for us, and the remaining 3 are electives. One of these is the Institute Level Elective, which is simply the requirement that the entire institute (yes, all departments) select one elective course among the other options. The majority of students will choose the subject, so make sure what all elective subjects you are choosing.
 
 📝 **Another point to note, as your placement season has started. Just a suggestion, choose those elective subjects which are interesting and easy to clear the IA Tests and the End-Semester exam.** 
 
